@@ -15,7 +15,7 @@ Desenvolva um site responsivo completo para uma empresa do ramo de cosméticos, 
 
 # Visualizar o projeto.
  
-Acesse o [link](https://elianehenri.github.io/ChicBeauty/) para visualizar o protifolio.
+Acesse o [link](https://chic-beauty.vercel.app/index.html) para visualizar o protifolio.
 
 # Autor
 Eliane
